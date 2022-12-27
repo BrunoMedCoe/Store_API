@@ -1,0 +1,222 @@
+2022-09-29T14:34:09.214Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T18:56:36.511Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T18:59:12.875Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T18:59:25.027Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:00:09.313Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:00:10.270Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:00:11.186Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:01:19.612Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:01:58.445Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:04:08.054Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:04:30.899Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:04:57.945Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:05:18.168Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:05:19.158Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:05:19.806Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:05:51.932Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:11:09.234Z [store_api] error POST  - Name, CPF, Phone, Email e Adress são obrigatórios.
+2022-09-29T19:12:24.987Z [store_api] error POST  - Name, CPF, Phone, Email e Address são obrigatórios.
+2022-09-29T19:12:43.810Z [store_api] error POST  - column "address" of relation "clients" does not exist
+2022-09-29T19:17:41.064Z [store_api] error POST  - column "address" of relation "clients" does not exist
+2022-09-29T19:24:06.343Z [store_api] error POST  - column "address" of relation "clients" does not exist
+2022-09-29T20:11:04.759Z [store_api] info POST /client - {"name":"Bruno","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-29T20:16:48.823Z [store_api] error POST  - ResizeObserver is not defined
+2022-09-29T20:18:15.005Z [store_api] info POST /client - {"name":"Bruno","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-29T20:26:51.661Z [store_api] info POST /client - {"name":"Bruno","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-30T12:40:59.917Z [store_api] error GET  - ClientService.getClients is not a function
+2022-09-30T12:41:34.787Z [store_api] info GET /client
+2022-09-30T13:02:43.231Z [store_api] error GET  - syntax error at or near ","
+2022-09-30T13:07:01.796Z [store_api] error GET  - column "clint_id" does not exist
+2022-09-30T13:09:14.939Z [store_api] error GET  - Cannot read properties of undefined (reading '0')
+2022-09-30T13:09:38.326Z [store_api] info GET /client
+2022-09-30T17:37:24.271Z [store_api] info GET /client
+2022-09-30T17:37:43.574Z [store_api] info DELETE /client
+2022-09-30T17:38:23.897Z [store_api] info GET /client
+2022-09-30T18:15:34.785Z [store_api] info POST /client - {"client_id":5,"name":"Bruno","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-30T18:16:18.409Z [store_api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios!
+2022-09-30T18:17:31.996Z [store_api] error PUT  - Unexpected string in JSON at position 19
+2022-09-30T18:18:05.587Z [store_api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios!
+2022-09-30T18:19:51.536Z [store_api] error PUT  - syntax error at or near "="
+2022-09-30T18:27:22.002Z [store_api] error PUT  - syntax error at or near "="
+2022-09-30T18:30:16.547Z [store_api] info PUT /client - undefined
+2022-09-30T18:31:12.563Z [store_api] info PUT /client - undefined
+2022-09-30T18:31:38.184Z [store_api] info PUT /client - undefined
+2022-09-30T18:32:52.031Z [store_api] info PUT /client - undefined
+2022-09-30T18:41:00.508Z [store_api] info PUT /client - undefined
+2022-09-30T18:42:24.909Z [store_api] info POST /client - {"client_id":6,"name":"Bruno","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-30T18:43:05.735Z [store_api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios!
+2022-09-30T18:43:49.278Z [store_api] info PUT /client - {"client_id":6,"name":"Bruno 2","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-30T20:17:43.065Z [store_api] info POST /supplier - {"supplier_id":1,"name":"Renevable Tech","cnpj":"1234567891000","phone":"18981107602","email":"renevabletech@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-30T20:20:44.962Z [store_api] error PUT  - Supplier ID, Name, CNPJ, Phone, Email e Address são obrigatórios!
+2022-09-30T20:21:24.072Z [store_api] info PUT /supplier - {"supplier_id":1,"name":"Renevable Tech ltda","cnpj":"1234567891000","phone":"18981107602","email":"renevabletech@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-30T20:22:03.724Z [store_api] info GET /supplier
+2022-09-30T20:22:16.930Z [store_api] info GET /supplier
+2022-09-30T20:22:41.177Z [store_api] info POST /supplier - {"supplier_id":2,"name":"Renevable Tech","cnpj":"1234567891000","phone":"18981107602","email":"renevabletech@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-30T20:22:42.217Z [store_api] info POST /supplier - {"supplier_id":3,"name":"Renevable Tech","cnpj":"1234567891000","phone":"18981107602","email":"renevabletech@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-09-30T20:23:05.484Z [store_api] info DELETE /supplier
+2022-09-30T20:53:21.443Z [store_api] info POST /product - {"product_id":1,"supplier_id":1,"name":"notebooks Dell","description":"Notebook dell i7, 64gb RAM, 2tb HD SSD","value":"8000","stock":20}
+2022-10-03T11:35:47.790Z [store_api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2022-10-03T11:37:07.148Z [store_api] info PUT /product - {"product_id":1,"supplier_id":1,"name":"notebooks Dell","description":"Notebook dell i7, 64gb RAM, 2tb HD SSD","value":"8500","stock":20}
+2022-10-03T11:37:50.657Z [store_api] info GET /product
+2022-10-03T11:37:57.136Z [store_api] info GET /product
+2022-10-03T11:38:13.885Z [store_api] info POST /product - {"product_id":3,"supplier_id":1,"name":"notebooks Dell","description":"Notebook dell i7, 64gb RAM, 2tb HD SSD","value":"8000","stock":20}
+2022-10-03T11:38:17.711Z [store_api] info POST /product - {"product_id":4,"supplier_id":1,"name":"notebooks Dell","description":"Notebook dell i7, 64gb RAM, 2tb HD SSD","value":"8000","stock":20}
+2022-10-03T11:38:18.975Z [store_api] info POST /product - {"product_id":5,"supplier_id":1,"name":"notebooks Dell","description":"Notebook dell i7, 64gb RAM, 2tb HD SSD","value":"8000","stock":20}
+2022-10-03T11:38:34.083Z [store_api] info DELETE /product
+2022-10-03T11:38:56.944Z [store_api] info POST /product - {"product_id":6,"supplier_id":1,"name":"notebooks Dell","description":"Notebook dell i7, 64gb RAM, 2tb HD SSD","value":"8000","stock":20}
+2022-10-03T11:39:14.100Z [store_api] info DELETE /product
+2022-10-03T11:42:59.921Z [store_api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2022-10-03T11:58:13.298Z [store_api] error POST  - O Supplier_id informado não existe!
+2022-10-03T11:58:37.565Z [store_api] info POST /product - {"product_id":8,"supplier_id":1,"name":"notebooks Dell","description":"Notebook dell i7, 64gb RAM, 2tb HD SSD","value":"8000","stock":20}
+2022-10-03T12:02:23.288Z [store_api] error PUT  - O supplier)id não existe!
+2022-10-03T12:02:49.742Z [store_api] info PUT /product - {"product_id":1,"supplier_id":1,"name":"notebooks Dell","description":"Notebook dell i7, 64gb RAM, 2tb HD SSD","value":"9500","stock":20}
+2022-10-03T12:31:04.840Z [store_api] error POST  - insert or update on table "sales" violates foreign key constraint "fk_clients"
+2022-10-03T12:32:39.023Z [store_api] info GET /client
+2022-10-03T12:33:08.651Z [store_api] info POST /sale - {"sale_id":2,"client_id":2,"product_id":1,"value":"5000","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T12:36:12.981Z [store_api] info PUT /sale - {"sale_id":2,"client_id":2,"product_id":1,"value":"5000","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T12:36:28.563Z [store_api] info PUT /sale - {"sale_id":2,"client_id":2,"product_id":1,"value":"5500","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T12:36:45.039Z [store_api] info POST /sale - {"sale_id":3,"client_id":2,"product_id":1,"value":"5000","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T12:37:01.219Z [store_api] info GET /sale
+2022-10-03T12:37:08.942Z [store_api] info GET /sale
+2022-10-03T12:37:22.001Z [store_api] info DELETE /sale
+2022-10-03T12:37:37.855Z [store_api] info GET /sale
+2022-10-03T12:59:14.901Z [store_api] error POST  - O product_id informado não existe!
+2022-10-03T12:59:32.162Z [store_api] error POST  - O client_id informado não existe!
+2022-10-03T13:07:23.675Z [store_api] error POST  - O product_id informado não existe!
+2022-10-03T13:07:41.233Z [store_api] error POST  - O product_id informado não existe!
+2022-10-03T13:08:30.564Z [store_api] error POST  - O product_id informado não existe!
+2022-10-03T13:09:44.173Z [store_api] info POST /sale - {"sale_id":4,"client_id":2,"product_id":1,"value":"5000","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T13:10:05.367Z [store_api] info PUT /sale - {"sale_id":2,"client_id":2,"product_id":1,"value":"5500","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T13:10:22.159Z [store_api] error PUT  - O client_id informado não existe!
+2022-10-03T13:10:31.808Z [store_api] error PUT  - O product_id informado não existe!
+2022-10-03T13:15:53.564Z [store_api] error POST  - O product_id informado não existe!
+2022-10-03T13:19:23.001Z [store_api] error POST  - O product_id informado não existe!
+2022-10-03T13:21:43.748Z [store_api] error POST  - O client_id informado não existe!O product_id informado não existe!
+2022-10-03T13:22:17.524Z [store_api] error POST  - O client_id informado não existe! O product_id informado não existe!
+2022-10-03T13:41:24.065Z [store_api] info GET /product
+2022-10-03T13:43:20.553Z [store_api] error POST  - Cannot access 'sale' before initialization
+2022-10-03T13:43:59.068Z [store_api] info POST /sale - {"sale_id":5,"client_id":2,"product_id":8,"value":"5000","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T13:44:25.390Z [store_api] info GET /product
+2022-10-03T13:46:33.949Z [store_api] info POST /product - {"product_id":9,"supplier_id":1,"name":"mouse Dell","description":"Mouse Dell bluetooth","value":"200","stock":2}
+2022-10-03T13:47:04.518Z [store_api] info GET /product
+2022-10-03T13:47:36.702Z [store_api] info POST /sale - {"sale_id":6,"client_id":2,"product_id":9,"value":"50","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T13:47:42.783Z [store_api] info POST /sale - {"sale_id":7,"client_id":2,"product_id":9,"value":"50","date":"2022-03-10T03:00:00.000Z"}
+2022-10-03T13:47:50.288Z [store_api] error POST  - O produto informado não possui estoque!
+2022-10-03T14:04:15.538Z [store_api] info GET /sale
+2022-10-03T14:04:36.391Z [store_api] info GET /sale
+2022-10-03T14:04:50.576Z [store_api] info GET /sale
+2022-10-03T14:07:22.131Z [store_api] error DELETE  - O id da sale informado não existe!
+2022-10-03T14:08:26.918Z [store_api] info GET /product
+2022-10-03T14:08:46.001Z [store_api] info DELETE /sale
+2022-10-03T14:09:00.549Z [store_api] info GET /product
+2022-10-03T14:09:15.459Z [store_api] info GET /product
+2022-10-03T14:09:18.936Z [store_api] info GET /product
+2022-10-03T14:09:45.371Z [store_api] error DELETE  - O id da sale informado não existe!
+2022-10-03T14:11:00.407Z [store_api] error DELETE  - O id da sale informado não existe!
+2022-10-03T14:11:08.901Z [store_api] error DELETE  - O id da sale informado não existe!
+2022-10-03T14:11:55.408Z [store_api] error DELETE  - O id da sale informado não existe!
+2022-10-03T14:16:44.748Z [store_api] info GET /sale
+2022-10-03T14:16:58.701Z [store_api] error DELETE  - O id da sale informado não existe!
+2022-10-03T14:17:08.786Z [store_api] info GET /product
+2022-10-03T14:17:28.372Z [store_api] info GET /sale
+2022-10-03T14:17:32.396Z [store_api] info GET /sale
+2022-10-03T14:18:31.396Z [store_api] info DELETE /sale
+2022-10-03T14:18:39.258Z [store_api] info GET /product
+2022-10-03T14:39:58.906Z [store_api] info GET /sale
+2022-10-03T14:40:56.957Z [store_api] info GET /sale
+2022-10-03T14:41:12.346Z [store_api] info GET /sale
+2022-10-03T14:41:27.851Z [store_api] info GET /sale
+2022-10-03T21:27:51.388Z [store_api] info GET /client
+2022-10-03T21:28:36.607Z [store_api] info GET /client
+2022-10-03T21:28:49.640Z [store_api] info POST /client - {"clientId":7,"name":"Bruno","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-10-03T21:30:18.956Z [store_api] error PUT  - Client ID, Name, CPF, Phone, Email e Address são obrigatórios!
+2022-10-03T21:32:05.634Z [store_api] info PUT /client - {"clientId":7,"name":"Bruno 2","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-10-03T21:32:48.398Z [store_api] info PUT /client - {"clientId":7,"name":"Bruno 3","cpf":"12345678910","phone":"18981107602","email":"brunocoelhom@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-10-03T21:32:53.753Z [store_api] info GET /client
+2022-10-03T21:33:26.555Z [store_api] info DELETE /client
+2022-10-03T21:33:36.373Z [store_api] info GET /client
+2022-10-04T11:31:56.360Z [store_api] info GET /supplier
+2022-10-04T11:32:16.444Z [store_api] info GET /supplier
+2022-10-04T11:32:48.425Z [store_api] error PUT  - WHERE parameter "supplier_id" has invalid "undefined" value
+2022-10-04T11:33:21.182Z [store_api] error PUT  - Supplier ID, Name, CNPJ, Phone, Email e Address são obrigatórios!
+2022-10-04T11:34:55.540Z [store_api] info PUT /supplier - {"supplierId":1,"name":"Renevable Tech ltda","cnpj":"1234567891000","phone":"18981107602","email":"renevabletech@hotmail.com","address":"Rua Raquel de Queiroz, 775 - SP"}
+2022-10-04T11:35:05.235Z [store_api] info POST /supplier - {"supplierId":4,"name":"Renevable Tech","cnpj":"1234567891000","phone":"18981107602","email":"renevabletech@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-10-04T11:35:09.197Z [store_api] info POST /supplier - {"supplierId":5,"name":"Renevable Tech","cnpj":"1234567891000","phone":"18981107602","email":"renevabletech@hotmail.com","address":"Rua Raquel de Queiroz, 775"}
+2022-10-04T11:35:18.815Z [store_api] info GET /supplier
+2022-10-04T11:35:50.036Z [store_api] info DELETE /supplier
+2022-10-04T11:35:54.737Z [store_api] info GET /supplier
+2022-10-04T13:27:17.661Z [store_api] info GET /product
+2022-10-04T13:28:50.098Z [store_api] info GET /product
+2022-10-04T13:29:21.895Z [store_api] info DELETE /product
+2022-10-04T13:43:07.338Z [store_api] error POST  - null value in column "supplier_id" of relation "products" violates not-null constraint
+2022-10-04T13:44:18.002Z [store_api] error POST  - Name, description, value, stock e supplier ID são obrigatórios.
+2022-10-04T13:44:54.849Z [store_api] info GET /supplier
+2022-10-04T13:46:48.429Z [store_api] error POST  - Name, description, value, stock e supplier ID são obrigatórios.
+2022-10-04T13:52:37.983Z [store_api] info POST /product - {"productId":11,"name":"mouse Dell","description":"Mouse Dell bluetooth","value":"200","stock":2,"supplierId":1}
+2022-10-04T13:52:52.897Z [store_api] error DELETE  - connect is not a function
+2022-10-04T20:31:54.351Z [store_api] error POST  - Value, Date, Client ID e Product ID são obrigatórios.
+2022-10-04T20:32:13.530Z [store_api] error POST  - Value, Date, Client ID e Product ID são obrigatórios.
+2022-10-04T20:34:07.561Z [store_api] error POST  - Value, Date, Client ID e Product ID são obrigatórios.
+2022-10-04T20:34:44.316Z [store_api] error POST  -  O product ID informado não existe!
+2022-10-04T20:34:58.649Z [store_api] info GET /product
+2022-10-04T20:35:15.926Z [store_api] error POST  - column "client_id " does not exist
+2022-10-04T20:36:17.344Z [store_api] info GET /product
+2022-10-04T20:36:33.043Z [store_api] info GET /product
+2022-10-04T20:36:54.215Z [store_api] error POST  - column "client_id " does not exist
+2022-10-04T20:41:05.941Z [store_api] error POST  - column "client_id " does not exist
+2022-10-04T20:43:00.228Z [store_api] error POST  - column "client_id " does not exist
+2022-10-04T20:44:02.946Z [store_api] error GET  - column sales.client_id  does not exist
+2022-10-04T20:49:09.878Z [store_api] error POST  - column "client_id " does not exist
+2022-10-04T21:02:51.733Z [store_api] error GET  - column sales.client_id  does not exist
+2022-10-04T21:08:25.835Z [store_api] info PUT /sale - undefined
+2022-10-04T21:08:44.394Z [store_api] error POST  - column "client_id " does not exist
+2022-10-04T21:29:34.139Z [store_api] error PUT  - column "client_id " does not exist
+2022-10-04T21:31:56.817Z [store_api] error DELETE  - column sales.client_id  does not exist
+2022-10-04T21:33:25.014Z [store_api] error DELETE  - column sales.client_id  does not exist
+2022-10-04T21:37:41.066Z [store_api] error POST  - column "client_id " does not exist
+2022-10-04T21:43:45.939Z [store_api] info POST /sale - {"saleId":8,"value":"50","date":"2022-03-10","clientId":2,"productId":11}
+2022-10-04T21:44:12.902Z [store_api] error DELETE  - O id da sale informado não existe!
+2022-10-04T21:44:19.717Z [store_api] info GET /sale
+2022-10-04T21:45:04.067Z [store_api] info GET /product
+2022-10-04T21:45:09.372Z [store_api] error DELETE  - Não é possivel excuir o produto pois ele tem vendas.
+2022-10-04T21:45:30.087Z [store_api] info POST /product - {"productId":12,"name":"mouse Dell","description":"Mouse Dell bluetooth","value":"200","stock":2,"supplierId":1}
+2022-10-04T21:45:38.946Z [store_api] error DELETE  - Não é possivel excuir o produto pois ele tem vendas.
+2022-10-04T21:45:46.825Z [store_api] info GET /product
+2022-10-04T21:46:24.148Z [store_api] error DELETE  - Não é possivel excuir o produto pois ele tem vendas.
+2022-10-04T21:48:32.370Z [store_api] info GET /product
+2022-10-04T21:48:36.617Z [store_api] info POST /product - {"productId":13,"name":"mouse Dell","description":"Mouse Dell bluetooth","value":"200","stock":2,"supplierId":1}
+2022-10-04T21:48:44.400Z [store_api] info DELETE /product
+2022-10-04T21:49:04.911Z [store_api] info GET /sale
+2022-10-04T21:49:44.553Z [store_api] error DELETE  - Não é possivel excuir o produto pois ele tem vendas.
+2022-10-05T20:00:57.191Z [store_api] info GET /product
+2022-10-05T20:03:37.809Z [store_api] error POST  - ProductService.createProductInfo is not a function
+2022-10-05T20:06:38.580Z [store_api] info POST /product/info - {"productId":12,"category":"mouse","width":"15cm","height":"20cm","depth":"5cm","reviews":[],"_id":"633de3ce9114d58b3cd509c5"}
+2022-10-05T20:28:16.324Z [store_api] info PUT /product/info - {"productId":12,"category":"mouse","width":"15cm","height":"20cm","depth":"5cm","reviews":[]}
+2022-10-05T20:28:36.923Z [store_api] info PUT /product/info - {"productId":12,"category":"mouse bluethooth","width":"15cm","height":"20cm","depth":"5cm","reviews":[]}
+2022-10-05T20:29:45.657Z [store_api] info PUT /product/info - {"productId":12,"category":"mouse bluetooth","width":"15cm","height":"20cm","depth":"5cm","reviews":[]}
+2022-10-05T20:49:46.068Z [store_api] info GET /product
+2022-10-05T21:14:51.344Z [store_api] error GET  - productId is not defined
+2022-10-05T21:15:15.795Z [store_api] error GET  - productId is not defined
+2022-10-05T21:17:36.847Z [store_api] info GET /product
+2022-10-05T21:17:50.236Z [store_api] error GET  - productId is not defined
+2022-10-05T21:22:45.716Z [store_api] info GET /product
+2022-10-05T21:22:58.355Z [store_api] info GET /product
+2022-10-05T21:23:12.990Z [store_api] info GET /product
+2022-10-05T21:26:50.787Z [store_api] info GET /product
+2022-10-06T12:09:05.675Z [store_api] error DELETE  - Cannot read properties of null (reading 'reviews')
+2022-10-06T12:34:17.261Z [store_api] error GET  - err is not defined
+2022-10-06T12:35:06.869Z [store_api] info GET /product/info
+2022-10-06T12:36:27.945Z [store_api] info GET /product/info
+2022-10-06T12:52:14.625Z [store_api] info GET /product
+2022-10-06T12:53:05.668Z [store_api] info POST /product/info - {"productId":3,"category":"mouse","width":"15cm","height":"20cm","depth":"5cm","reviews":[],"_id":"633ecfb1bb0c4550684ef812"}
+2022-10-06T12:55:04.367Z [store_api] info DELETE /product/info
+2022-10-06T12:56:55.926Z [store_api] info DELETE /product/info
+2022-10-06T19:37:55.803Z [store_api] info POST /product/info - {"productId":3,"category":"mouse","width":"15cm","height":"20cm","depth":"5cm","reviews":[]}
+2022-10-06T19:38:56.471Z [store_api] info POST /product/info - {"productId":3,"category":"mouse","width":"15cm","height":"20cm","depth":"5cm","reviews":[]}
+2022-10-06T19:39:55.083Z [store_api] info POST /product/info - {"productId":3,"category":"mouse","width":"15cm","height":"20cm","depth":"5cm","reviews":[]}
+2022-10-06T19:40:45.246Z [store_api] info PUT /product/info - {"productId":22,"category":"mouse bluetooth","width":"15cm","height":"20cm","depth":"5cm","reviews":[]}
+2022-10-06T19:41:16.501Z [store_api] info DELETE /product/info
+2022-10-06T19:43:29.722Z [store_api] info DELETE /product/info
+2022-10-06T19:43:51.655Z [store_api] info GET /product
+2022-10-06T19:44:11.066Z [store_api] info GET /product
+2022-10-06T19:44:47.469Z [store_api] info GET /product
